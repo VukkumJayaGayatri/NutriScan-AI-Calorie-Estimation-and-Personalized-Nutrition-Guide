@@ -2,7 +2,7 @@
 
 📖 Project Overview
 
-Gemini Health Tracker is a user-friendly AI-powered health management application that utilizes Google Gemini Pro Vision API to analyze food images, estimate calorie intake, and provide personalized nutrition insights. Designed with Streamlit for a seamless UI experience, this app is ideal for individuals aiming to track their calorie consumption and maintain a balanced diet.
+NutriScan AI is a user-friendly AI-powered health management application that utilizes Google Gemini Pro Vision API to analyze food images, estimate calorie intake, and provide personalized nutrition insights. Designed with Streamlit for a seamless UI experience, this app is ideal for individuals aiming to track their calorie consumption and maintain a balanced diet.
 
 🚀 Features
 
